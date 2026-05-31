@@ -1,5 +1,8 @@
 # Netflix Data Analysis & Dashboard
 
+<img width="274" height="184" alt="download" src="https://github.com/user-attachments/assets/8e32858b-75e9-4a18-b050-045e8e570c53" />
+
+
 An interactive **Power BI Dashboard** analyzing Netflix's content library, trends, and performance metrics using a cleaned dataset of over 8,800 titles.
 
 ## 📋 Project Overview
